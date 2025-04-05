@@ -1,0 +1,2 @@
+C:/Users/efe-d/Development/MyProjects/SocialMedia/bluesky_viewer/android/app/.cxx/Debug/o615f5r9/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/efe-d/Development/MyProjects/SocialMedia/bluesky_viewer/android/app/.cxx/Debug/o615f5r9/armeabi-v7a/CMakeFiles/rebuild_cache.dir
